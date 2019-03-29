@@ -1,1 +1,3 @@
 ECHO est  ativado.
+meu primeiro arquivo de teste do git 
+oficina de git, nucleo de práticas
